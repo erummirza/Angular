@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "6iqy1ZQMCnUSEpVwSHbs6CQomH82fzI+8H+IpkJTIr8=",
+  "Source": "BasketBall.Server",
+  "BasePath": "_content/BasketBall.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ACER\\source\\repos\\BasketBall\\basketball.client\\basketball.client.esproj",
+      "Version": 2,
+      "Source": "basketball.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

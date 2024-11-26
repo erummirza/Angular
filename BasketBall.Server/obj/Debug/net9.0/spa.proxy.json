@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:55554",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\ACER\\source\\repos\\BasketBall\\BasketBall.Server\\..\\basketball.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
